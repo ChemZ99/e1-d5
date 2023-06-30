@@ -139,6 +139,7 @@ div img {
 .bordered-text {
   margin: 2.5em;
   text-align: center;
+  font-weight: 400;
 }
 
 .rounded-img {
